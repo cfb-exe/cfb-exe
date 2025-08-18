@@ -4,7 +4,7 @@
 <img align="left" src="./assets/pfphat.png" height="300px" width="275px">
 
 Currently working on personal projects to get some experience making things on my own from scratch. The goal is to have at least 3 complete repos by june 2026, as well as make a few contributions. 
-<center><br><br><br><br>
+<p align="center"><br><br><br><br>
 <a href="https://cfb-exe.github.io/" style="color: #7e8c63">⤹ Portfolio ⤸</a>
 <br><br></b><br><br></b><br><br></b><br><br>
 <b><u>T E C H  S T A C K</u></b><br><br>
@@ -32,6 +32,6 @@ Currently working on personal projects to get some experience making things on m
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
-</center>
+</p>
 
 ![Selena's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfb-exe&theme=buefy_icons=true)
