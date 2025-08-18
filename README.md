@@ -1,6 +1,3 @@
-@ -0,0 +1,40 @@
-<div style="background-color: #fbffee; padding: 10px; color: #7e8c63;">
-
 ![headerlogo](./assets/Modern%20Cute%20Green%20Aesthetic%20Twitch%20Banner.png)
 
 
@@ -38,4 +35,3 @@ Currently working on personal projects to get some experience making things on m
 </center>
 
 ![Selena's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfb-exe&theme=buefy_icons=true)
-</div>
