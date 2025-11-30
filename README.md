@@ -1,6 +1,3 @@
-![headerlogo]()
-
-
 <img align="left" src="./assets/pfphat.png" height="300px" width="275px">
 
 Currently working on personal projects to get some experience making things on my own from scratch. The goal is to have at least 3 complete repos by june 2026, as well as make a few contributions. 
