@@ -33,6 +33,3 @@ Currently working on personal projects to get some experience making things on m
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 
 </p>
-
-
-![Selena's GitHub stats](https://github-readme-stats.vercel.app/api?username=cfb-exe&theme=buefy_icons=true)
