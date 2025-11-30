@@ -1,4 +1,4 @@
-![headerlogo](./assets/Modern%20Cute%20Green%20Aesthetic%20Twitch%20Banner.png)
+![headerlogo]()
 
 
 <img align="left" src="./assets/pfphat.png" height="300px" width="275px">
