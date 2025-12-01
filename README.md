@@ -3,7 +3,7 @@
 ```javascript
 const cfb-exe = {
   pronouns: "she" | "her",
-  aboutMe: "I started coding 11/2024~ I have a B.A in Economics and now working on my Masters in CS Software Engineering."
+  aboutMe: "I started coding 11/2024~ I have a B.A in Economics and now working on my Masters in CS Software Engineering.",
   code: [Javascript, HTML, CSS, C], // kotlin & java are in my learning queue
   technologies: {
       databases: ["PostgreSQL", "SQL", "SQLite"],
@@ -15,17 +15,19 @@ const cfb-exe = {
   }
 };
 ```
-<br><br>
-## more about me~
-Currenlty trying to understand architectures and design patterns while also trying to work on personal projects to get some experience and build my portfolio. I love front-end because I love being able to be creative and make things that are aesthetically pleasing to me, however I do want to be a decent full-stack dev. The goal is to have at least 3 complete repos by june 2026, as well as make a few useful contributions.
 <br>
+
+## ⤷ more about me~
+Currenlty trying to understand architectures and design patterns while also trying to work on personal projects to get some experience and build my portfolio. I love front-end because I love being able to be creative and make things that are aesthetically pleasing to me, however I do want to be a decent full-stack dev. The goal is to have at least 3 complete repos by june 2026, as well as make a few useful contributions.
+<br><br>
 Most of the art in my project are drawn by myself, any that are not are always credited. I do <b>NOT</b> and <b>WILL NOT</b> ever be using generative Ai for my art/future projects, because I do enjoy clean water and having a planet to live on.
 <br><br>
 <img src="./assets/notai.png" height="100px" width="100px">
 <p align="center">
 <a href="https://cfb-exe.github.io/" style="color: #7e8c63">⤹ Portfolio ⤸</a>
-<br><br></b><br>
-<b><u>T E C H  S T A C K</u></b><br><br>
+<br>
+  
+## T E C H  S T A C K
 <b>| l a n g u a g e s  |</b><br><br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
