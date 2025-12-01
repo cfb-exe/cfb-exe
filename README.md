@@ -2,7 +2,8 @@
 
 ```javascript
 const cfb-exe = {
-  aboutMe: "I started coding 11/2024~ I have a B.A in Economics and now working on my Masters in CS Software Engineering.",
+  aboutMe: "I started coding 11/2024~ I have a B.A in Economics
+  and now working on my Masters in CS Software Engineering.",
   code: [Javascript, HTML, CSS, C], // kotlin & java are in my learning queue
   technologies: {
       databases: ["PostgreSQL", "SQL", "SQLite"],
