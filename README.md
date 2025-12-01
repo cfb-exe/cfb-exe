@@ -21,7 +21,6 @@ Most of the art in my project are drawn by myself, any that are not are always c
 <br><br>
 <img src="./assets/notai.png" height="100px" width="100px">
 <p align="center">
-<br><br>
 <a href="https://cfb-exe.github.io/" style="color: #7e8c63">⤹ Portfolio ⤸</a>
 <br><br></b><br>
 <b><u>T E C H  S T A C K</u></b><br><br>
