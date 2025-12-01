@@ -27,8 +27,9 @@ Currenlty trying to understand architectures and design patterns while also tryi
 <a href="https://cfb-exe.github.io/" style="color: #7e8c63">⤹ Portfolio ⤸</a>
 <br></p>
 
-#### | tech stack |
+#### 
 ---
+#### | tech stack |
 most used: `.js`, `.html`, `.css`
 
 
