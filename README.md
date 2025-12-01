@@ -3,7 +3,7 @@
 ```javascript
 const cfb-exe = {
   pronouns: "she" | "her",
-  aboutMe: "I started coding 11/2024~ I have a B.A in Economics but decided I wanted a career change to what I have always wanted to do-- so now I am currently working on my Masters in Computer Science concentration in Software Engineering. Currenlty trying to understand architectures and design patterns while also trying to work on personal projects to get some experience and build my portfolio. I love front-end because I love being able to be creative and make things that are aesthetically pleasing to me, however I do want to be a decent full-stack dev. The goal is to have at least 3 complete repos by june 2026, as well as make a few useful contributions."
+  aboutMe: "I started coding 11/2024~ I have a B.A in Economics and now working on my Masters in CS Software Engineering."
   code: [Javascript, HTML, CSS, C], // kotlin & java are in my learning queue
   technologies: {
       databases: ["PostgreSQL", "SQL", "SQLite"],
@@ -15,8 +15,10 @@ const cfb-exe = {
   }
 };
 ```
-## more about me~
 <br><br>
+## more about me~
+Currenlty trying to understand architectures and design patterns while also trying to work on personal projects to get some experience and build my portfolio. I love front-end because I love being able to be creative and make things that are aesthetically pleasing to me, however I do want to be a decent full-stack dev. The goal is to have at least 3 complete repos by june 2026, as well as make a few useful contributions.
+<br>
 Most of the art in my project are drawn by myself, any that are not are always credited. I do <b>NOT</b> and <b>WILL NOT</b> ever be using generative Ai for my art/future projects, because I do enjoy clean water and having a planet to live on.
 <br><br>
 <img src="./assets/notai.png" height="100px" width="100px">
