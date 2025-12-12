@@ -4,7 +4,7 @@
 const cfb-exe = {
   aboutMe: "I started coding 11/2024~ I have a B.A in Economics
   and now working on my Masters in CS Software Engineering.",
-  code: [Javascript, HTML, CSS, C],
+  code: [Javascript, HTML, CSS],
   technologies: {
       databases: ["PostgreSQL", "SQL"],
       dev0ps: [// jenkins is also in learning queue],
