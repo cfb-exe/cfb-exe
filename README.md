@@ -7,7 +7,7 @@ const cfb-exe = {
   code: [Javascript, HTML, CSS],
   technologies: {
       databases: ["PostgreSQL", "SQL"],
-      dev0ps: [// jenkins is also in learning queue],
+      dev0ps: [// jenkins is in learning queue],
   },
   architecture: {
       backEnd: ["microservices", "monolithic", "serverless"],
