@@ -6,12 +6,11 @@ const cfb-exe = {
   and now working on my Masters in CS Software Engineering.",
   code: [Javascript, HTML, CSS, C], // kotlin & java are in my learning queue
   technologies: {
-      databases: ["PostgreSQL", "SQL", "SQLite"],
+      databases: ["PostgreSQL", "SQL"],
       dev0ps: [// jenkins is also in learning queue],
   },
   architecture: {
       backEnd: ["microservices", "monolithic", "serverless"],
-      databases: ["NoSQL"],
   }
 };
 ```
